@@ -1,122 +1,124 @@
 {
-    "collegeCode": "SNT",
+    "collegeCode": "CHN",
 
-    "college": "Sree Narayana Guru Institute of Science and Technology",
+    "college": "College of Engineering Chengannur",
 
-    "about": "Lorem ipsum dolor sit amet consectetur adipiscing, elit ultricies imperdiet neque mattis, orci pellentesque turpis facilisi leo. Laoreet donec tortor sagittis habitasse eleifend conubia quis lacinia accumsan auctor, montes morbi natoque convallis integer aliquam posuere eu nulla, proin fames dapibus mattis sociis ligula blandit quam potenti. Himenaeos fringilla tincidunt aptent porta ultrices velit dignissim senectus purus suspendisse, fames eleifend feugiat nam hac montes semper pretium potenti, viverra curae netus volutpat cras per eu cubilia primis.",
+    "about": "µLearn CHN is a dynamic community powered by GTech, dedicated to fostering growth through mutual learning. We bring together curious minds to explore new ideas, develop skills, and collaborate on innovative projects. Our community thrives on peer learning, mentorship, and hands-on experiences, empowering individuals to grow both personally and professionally.Join us and be part of a movement that transforms learning into action!",
 
     "events": [
         {
-            "month": "Sep",
-            "date": "29",
-            "head": "Event 1",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "month": "March",
+            "date": "9-16",
+            "head": "Make(Me)²",
+            "para": "A fun-filled meme-making competition organized as part of Women's Day, where teams unleash their creativity to craft witty and engaging memes on a given topic. Participants can select any template from the provided list to bring their ideas to life!",
+            "img": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/event1.jpeg"
         },
         {
-            "month": "Sep",
-            "date": "27",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "month": "March",
+            "date": "7-15",
+            "head": "Change the Look",
+            "para": " A creative challenge introduced as a follow-up to the Introduction to Figma workshop from the µQuest series. Students take a random poster and redesign it with their unique creative touch, enhancing their Figma skills.",
+            "img": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/event3.jpeg"
         },
         {
-            "month": "Sep",
-            "date": "26",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "month": "March",
+            "date": "5-6",
+            "head": "Introduction to Figma",
+            "para": " A two-day session designed to familiarize students with Figma and its essential tools. This workshop marked the launch of the µQuest series, setting the stage for hands-on learning and creative exploration.",
+            "img": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/event2.jpeg"
         },
         {
-            "month": "Sep",
-            "date": "25",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "month": "March",
+            "date": "5",
+            "head": "µQUEST",
+            "para": "µQUEST is a workshop and challenge series designed to educate students and guide them through Level 3 tasks on Discord, enhancing their skills and engagement.",
+            "img": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/event6.jpeg"
         },
         {
-            "month": "Sep",
-            "date": "25",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "month": "January",
+            "date": "29-30",
+            "head": "Karma Fest",
+            "para": "A 2-day event to onboard students to Discord, boost campus karma points, and increase participation in µLearn through fun challenges and interactive sessions.",
+            "img": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/event4.jpeg"
         }
     ],
 
     "gallery": {
         "row1": [
             {
-                "image": "https://mulearn.org/assets/home/illustration.webp"
+                "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/IMG_5086.JPG"
             },
             {
-                "image": "https://mulearn.org/assets/home/Chart.webp"
+                "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/IMG_7789.jpg"
             },
 			{
-				"image": "https://learn.mulearn.org/assets/challenge/typingsample.webp"
+				"image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/IMG_7834.jpg"
 			}
         ],
         "row2": [
             {
-                "image": "https://th.bing.com/th/id/OIP.p5zC9uLm5ByGSy8gYI0McAHaE8?pid=ImgDet&rs=1"
+                "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/IMG_9798.jpg"
             },
             {
-                "image": "https://images.squarespace-cdn.com/content/v1/5c710438b914490d5769a64f/b4fb2b4f-5f95-41a1-9416-d156d0ae273f/Most+Famous+Astrologer+in+the+World.jpg"
+                "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/IMG_7844.jpg"
+            },
+		{
+                "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/IMG_9803.jpg"
+            },
+            {
+                "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/event5.jpeg"
             }
         ]
     },
 
     "statistics": {
-        "studentsCount": 30,
-        "learningCircles": 10,
-        "InterestGroups": 5,
-        "karmaEarned": 60,
-        "rank": 28
+        "studentsCount": 152 ,
+        "learningCircles": 0,
+        "InterestGroups": 3,
+        "karmaEarned": 429947,
+        "rank": 8
     },
 
     "team": {
         "staffAdvisor": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "Geetha S",
+            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/geetha.jpg"
         },
         "campusLead": {
-            "name": "Elon Musk",
-            "image": "https://th.bing.com/th/id/OIP.DjyPSeO-t7bK2agoLSYJzgHaHa?pid=ImgDet&rs=1"
+            "name": "Shijina S",
+            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Shijina.jpg"
         },
         "campusCoLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
-        },
-        "treasurer": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
-        },
-        "technicalLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
-        },
-        "mediaLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
-        },
-        "contentLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "Nithin Jayakumar",
+            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Nithin.jpg"
         },
         "operationLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "Nanma Maryam Soence",
+            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/nanma.jpg"
+        },
+	"creativeLead": {
+            "name": "Anna Jaison",
+            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/anna.jpeg"
+        },
+        "technicalLead": {
+            "name": "Amanul Farhan",
+            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/amanul.jpeg"
+        },
+        "mediaLead": {
+            "name": "Kasinathan C G",
+            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Kasinathan.JPG"
         }
     },
 
-    "discordLink": "",
+    "discordLink": "https://discord.gg/DfnDfBhGha",
 
     "whatsAppLink": "",
 
-    "email": "mulearn@cce.edu.in",
+    "email": "gtechmulearncec@gmail.com",
 
-    "linkedIn": "",
+    "linkedIn": "https://www.linkedin.com/company/gtech-mulearn-cec/",
 
-    "instagram": "",
+    "instagram": "https://www.instagram.com/mulearn.chn?igsh=bGdwODd2cTViajBm",
 
     "twitter": "",
 
