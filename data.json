@@ -11,62 +11,62 @@
             "date": "9-16",
             "head": "Make(Me)²",
             "para": "A fun-filled meme-making competition organized as part of Women's Day, where teams unleash their creativity to craft witty and engaging memes on a given topic. Participants can select any template from the provided list to bring their ideas to life!",
-            "img": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/event1.jpeg"
+            "img": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/event1.webp"
         },
         {
             "month": "March",
             "date": "7-15",
             "head": "Change the Look",
             "para": " A creative challenge introduced as a follow-up to the Introduction to Figma workshop from the µQuest series. Students take a random poster and redesign it with their unique creative touch, enhancing their Figma skills.",
-            "img": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/event3.jpeg"
+            "img": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/event3.webp"
         },
         {
             "month": "March",
             "date": "5-6",
             "head": "Introduction to Figma",
             "para": " A two-day session designed to familiarize students with Figma and its essential tools. This workshop marked the launch of the µQuest series, setting the stage for hands-on learning and creative exploration.",
-            "img": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/event2.jpeg"
+            "img": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/event2.webp"
         },
         {
             "month": "March",
             "date": "5",
             "head": "µQUEST",
             "para": "µQUEST is a workshop and challenge series designed to educate students and guide them through Level 3 tasks on Discord, enhancing their skills and engagement.",
-            "img": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/event6.jpeg"
+            "img": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/event6.webp"
         },
         {
             "month": "January",
             "date": "29-30",
             "head": "Karma Fest",
             "para": "A 2-day event to onboard students to Discord, boost campus karma points, and increase participation in µLearn through fun challenges and interactive sessions.",
-            "img": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/event4.jpeg"
+            "img": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/event4.webp"
         }
     ],
 
     "gallery": {
         "row1": [
             {
-                "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/IMG_5086.JPG"
+                "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/IMG_5086.webp"
             },
             {
-                "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/IMG_7789.jpg"
+                "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/IMG_7789.webp"
             },
 			{
-				"image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/IMG_7834.jpg"
+				"image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/IMG_7834.webp"
 			}
         ],
         "row2": [
             {
-                "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/IMG_9798.jpg"
+                "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/IMG_9798.webp"
             },
             {
-                "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/IMG_7844.jpg"
+                "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/IMG_7844.webp"
             },
 		{
-                "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/IMG_9803.jpg"
+                "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/IMG_9803.webp"
             },
             {
-                "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/event5.jpeg"
+                "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/event5.webp"
             }
         ]
     },
@@ -82,67 +82,67 @@
     "team": {
         "staffAdvisor": {
             "name": "Geetha S",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/geetha.jpg"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/geetha.webp"
         },
         "campusLead": {
             "name": "Shijina S",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Shijina.jpg"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/Shijina.webp"
         },
         "campusCoLead": {
             "name": "Nithin Jayakumar",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Nithin.jpg"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/Nithin.webp"
         },
         "operationLead": {
             "name": "Nanma Maryam Soence",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/nanma.jpg"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/nanma.webp"
         },
 	"creativeLead": {
             "name": "Anna Jaison",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/anna.jpeg"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/anna.webp"
         },
         "technicalLead": {
             "name": "Amanul Farhan",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/amanul.jpeg"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/amanul.webp"
         },
         "mediaLead": {
             "name": "Kasinathan C G",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Kasinathan.JPG"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/Kasinathan.webp"
         },
         "operationTeam1": {
             "name": "Hanin C K",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Hanin.jpg"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/Hanin.webp"
         },
         "operationTeam2": {
             "name": "Gourinandhan R",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Gourinandhan.jpg"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/Gourinandhan.webp"
         },
 	    "designer1": {
             "name": "Govind J S",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/govind.png"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/govind.webp"
         },
 	    "designer2": {
             "name": "Juhaina Jaleel",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Juhaina.jpeg"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/Juhaina.webp"
         },
         "contentTeam1": {
             "name": "Megha B Chandran",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Megha.jpg"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/Megha.webp"
         },
         "contentTeam2": {
             "name": "Albin Thomas",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Albin.jpg"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/Albin.webp"
         },
         "mediaTeam": {
             "name": "Pavithra A",
-            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/public/Pavithra.jpg"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/Pavithra.webp"
         },
         "igLeadIot": {
             "name": "Viswaprabha",
-            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/public/Viswa.JPG"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/Viswa.webp"
         },
         "igLeadDesign": {
             "name": "Sanjeev S Nair",
-            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/public/sanjeev.jpg"
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/sanjeev.webp"
         }
     },
 
