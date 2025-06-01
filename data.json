@@ -107,6 +107,42 @@
         "mediaLead": {
             "name": "Kasinathan C G",
             "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Kasinathan.JPG"
+        },
+        "operationTeam1": {
+            "name": "Hanin C K",
+            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Hanin.jpg"
+        },
+        "operationTeam2": {
+            "name": "Gourinandhan R",
+            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Gourinandhan.jpg"
+        },
+	    "designer1": {
+            "name": "Govind J S",
+            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/govind.png"
+        },
+	    "designer2": {
+            "name": "Juhaina Jaleel",
+            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Juhaina.jpeg"
+        },
+        "contentTeam1": {
+            "name": "Megha B Chandran",
+            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Megha.jpg"
+        },
+        "contentTeam2": {
+            "name": "Albin Thomas",
+            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Albin.jpg"
+        },
+        "mediaTeam": {
+            "name": "Pavithra A",
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/public/Pavithra.jpg"
+        },
+        "igLeadIot": {
+            "name": "Viswaprabha",
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/public/Viswa.JPG"
+        },
+        "igLeadDesign": {
+            "name": "Sanjeev S Nair",
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/public/sanjeev.jpg"
         }
     },
 
