@@ -77,7 +77,7 @@ const Team = () => {
     };
 
     handleResize();
-    window.addEventListener("resize", handleResize);
+   // window.addEventListener("resize", handleResize);
 
     return () => window.removeEventListener("resize", handleResize);
   }, [screenWidth, screenHeight]);
