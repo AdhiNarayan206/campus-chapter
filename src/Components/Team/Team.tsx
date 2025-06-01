@@ -61,7 +61,7 @@ const Team = () => {
     if (imagesPerRow === 0) return totalItems;
     return Math.ceil(totalItems / imagesPerRow) + (window.innerWidth <= 768
       ? 0
-      : 0);
+      : window.innerWidth <= 1300?0:1);
   };
 
   useEffect(() => {

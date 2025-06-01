@@ -1,5 +1,4 @@
 export const BlueStar = (size: any) => {
-  console.log(size.size);
   var l = size.size;
   return (
     <svg
@@ -18,7 +17,6 @@ export const BlueStar = (size: any) => {
 };
 
 export const WhiteStar = (size: any) => {
-    console.log(size.size);
     var l = size.size;
   return (
     <svg
@@ -37,7 +35,6 @@ export const WhiteStar = (size: any) => {
 };
 
 export const Mu = (size: any) => {
-  console.log(size.size);
   var l = size.size;
   var r = size.rotate
   return (
