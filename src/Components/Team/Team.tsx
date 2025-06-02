@@ -138,7 +138,7 @@ const Team = () => {
               <div className={styles.teamMemberName}>
                 {data.team.staffAdvisor.name}
               </div>
-              <div className={styles.teamMemberDesignation}>Staff Advisor</div>
+              <div className={styles.teamMemberDesignation}>Lead Enabler</div>
             </div>
           </div>
           <div className={styles.team}>
