@@ -92,6 +92,10 @@
   border: 3px solid transparent;
 }
 
+.ImagePositionAdjust {
+  object-position: top;
+}
+
 .team:hover .teamImageIndividual {
   border-color: #ad58ff;
   transform: scale(1.02);
