@@ -129,7 +129,7 @@ const Team = () => {
           <div className={styles.team}>
             <div className={styles.team1Img}>
               <img
-                className={styles.teamImageIndividual}
+                className={`${styles.teamImageIndividual} ${styles.ImagePositionAdjust}`}
                 src={data.team.staffAdvisor.image}
                 loading="lazy"
               />
@@ -204,7 +204,7 @@ const Team = () => {
           <div className={styles.team}>
             <div className={styles.team1Img}>
               <img
-                className={styles.teamImageIndividual}
+                className={`${styles.teamImageIndividual} ${styles.ImagePositionAdjust}`}
                 src={data.team.technicalLead.image}
                 loading="lazy"
               />
@@ -309,7 +309,7 @@ const Team = () => {
           <div className={styles.team}>
             <div className={styles.team1Img}>
               <img
-                className={styles.teamImageIndividual}
+                className={`${styles.teamImageIndividual} ${styles.ImagePositionAdjust}`}
                 src={data.team.contentTeam2.image}
                 loading="lazy"
               />
