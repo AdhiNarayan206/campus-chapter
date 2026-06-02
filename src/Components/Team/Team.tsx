@@ -235,6 +235,21 @@ const Team = () => {
             <div className={styles.team1Img}>
               <img
                 className={styles.teamImageIndividual}
+                src={data.team.contentLead.image}
+                loading="lazy"
+              />
+            </div>
+            <div className={styles.teamNameDesignation}>
+              <div className={styles.teamMemberName}>
+                {data.team.contentLead.name}
+              </div>
+              <div className={styles.teamMemberDesignation}>Content Lead</div>
+            </div>
+          </div>
+          <div className={styles.team}>
+            <div className={styles.team1Img}>
+              <img
+                className={styles.teamImageIndividual}
                 src={data.team.operationTeam1.image}
                 loading="lazy"
               />
@@ -325,13 +340,13 @@ const Team = () => {
             <div className={styles.team1Img}>
               <img
                 className={styles.teamImageIndividual}
-                src={data.team.mediaTeam.image}
+                src={data.team.mediaTeam1.image}
                 loading="lazy"
               />
             </div>
             <div className={styles.teamNameDesignation}>
               <div className={styles.teamMemberName}>
-                {data.team.mediaTeam.name}
+                {data.team.mediaTeam1.name}
               </div>
               <div className={styles.teamMemberDesignation}>Media Team</div>
             </div>
@@ -340,15 +355,30 @@ const Team = () => {
             <div className={styles.team1Img}>
               <img
                 className={styles.teamImageIndividual}
-                src={data.team.igLeadIot.image}
+                src={data.team.mediaTeam2.image}
                 loading="lazy"
               />
             </div>
             <div className={styles.teamNameDesignation}>
               <div className={styles.teamMemberName}>
-                {data.team.igLeadIot.name}
+                {data.team.mediaTeam2.name}
               </div>
-              <div className={styles.teamMemberDesignation}>IG Lead-IOT</div>
+              <div className={styles.teamMemberDesignation}>Media Team</div>
+            </div>
+          </div>
+          <div className={styles.team}>
+            <div className={styles.team1Img}>
+              <img
+                className={styles.teamImageIndividual}
+                src={data.team.igLeadAI.image}
+                loading="lazy"
+              />
+            </div>
+            <div className={styles.teamNameDesignation}>
+              <div className={styles.teamMemberName}>
+                {data.team.igLeadAI.name}
+              </div>
+              <div className={styles.teamMemberDesignation}>IG Lead-AI</div>
             </div>
           </div>
           <div className={styles.team}>
@@ -364,6 +394,36 @@ const Team = () => {
                 {data.team.igLeadDesign.name}
               </div>
               <div className={styles.teamMemberDesignation}>IG Lead-UI/UX</div>
+            </div>
+          </div>
+          <div className={styles.team}>
+            <div className={styles.team1Img}>
+              <img
+                className={styles.teamImageIndividual}
+                src={data.team.igLeadCyberSecurity.image}
+                loading="lazy"
+              />
+            </div>
+            <div className={styles.teamNameDesignation}>
+              <div className={styles.teamMemberName}>
+                {data.team.igLeadCyberSecurity.name}
+              </div>
+              <div className={styles.teamMemberDesignation}>IG Lead-Cyber Security</div>
+            </div>
+          </div>
+          <div className={styles.team}>
+            <div className={styles.team1Img}>
+              <img
+                className={styles.teamImageIndividual}
+                src={data.team.igLeadWeb.image}
+                loading="lazy"
+              />
+            </div>
+            <div className={styles.teamNameDesignation}>
+              <div className={styles.teamMemberName}>
+                {data.team.igLeadWeb.name}
+              </div>
+              <div className={styles.teamMemberDesignation}>IG Lead-Web</div>
             </div>
           </div>
         </div>
