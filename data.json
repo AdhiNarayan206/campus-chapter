@@ -72,10 +72,10 @@
     },
 
     "statistics": {
-        "studentsCount": "1.09k" ,
+        "studentsCount": "1090" ,
         "learningCircles": 0,
         "InterestGroups": 4,
-        "karmaEarned": "643.35k",
+        "karmaEarned": "643350",
         "rank": 7
     },
 
@@ -85,29 +85,82 @@
             "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/geetha.jpg"
         },
         "campusLead": {
-            "name": "Shijina S",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Shijina.jpg"
-        },
-        "campusCoLead": {
             "name": "Nithin Jayakumar",
             "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Nithin.jpg"
         },
-        "operationLead": {
-            "name": "Nanma Maryam Soence",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/nanma.jpg"
+        "campusCoLead": {
+            "name": "Divyalakshmi",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780429835/actjsiebxpl15u8comlk.jpg"
         },
-	"creativeLead": {
-            "name": "Anna Jaison",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/anna.jpeg"
+        "operationLead": {
+            "name": "Hanin C K",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780430510/ltdhr7by7zuyz8taisas.jpg"
+        },
+	    "creativeLead": {
+            "name": "Govind J S",
+            "image": "https://cdn.jsdelivr.net/gh/AmanulFarhan/mulearn_images@main/webp/govind.webp"
         },
         "technicalLead": {
             "name": "Amanul Farhan",
             "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/amanul.jpeg"
         },
         "mediaLead": {
-            "name": "Kasinathan C G",
-            "image": "https://mulearnpics-mub4kg27p-amanulfarhans-projects.vercel.app/Kasinathan.JPG"
+            "name": "Pavithra A",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780432964/vwzgqokh1xwovxug33yi.jpg"
+        },
+        "contentLead": {
+            "name": "Albin Thomas",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780435906/mgj3ua8d0nl84tckwetz.jpg"
+        },
+        "operationTeam1": {
+            "name": "Melwin  Shibu Mathew",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780433167/go6lezj2tthikngc5dtc.jpg"
+        },
+        "operationTeam2": {
+            "name": "Sara Shaji",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780433240/zraolggh2kl8ttmvh8ux.jpg"
+        },
+	    "designer1": {
+            "name": "Afsal S",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780434705/fsruobasrered4p7is3y.png"
+        },
+	    "designer2": {
+            "name": "Vismaya Gawri Krishnan",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780434762/un0yzbv0bo9iujvayjnt.jpg"
+        },
+        "contentTeam1": {
+            "name": "Karthika S",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780433802/ogfv1jkvqeqqguxdtr0a.jpg"
+        },
+        "contentTeam2": {
+            "name": "Wazha Afzal Koyappathodi",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780433906/mqqikavlmgqkzfqf7qx2.jpg"
+        },
+        "mediaTeam1": {
+            "name": "Parvathy Vinayan",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780434014/xptbanvr2czx5c8sdrjp.jpg"
+        },
+        "mediaTeam2": {
+            "name": "Brijith K Reji",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780434113/usruz9vlrtmgihvjya3r.jpg"
+        },
+        "igLeadAI": {
+            "name": "Adhi Narayan",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780434320/naxj9c3neuzsgwojdomq.jpg"
+        },
+        "igLeadDesign": {
+            "name": "Al Ameen",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780434391/zcfztnktvprpwxeansph.jpg"
+        },
+        "igLeadCyberSecurity": {
+            "name": "Amal S",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780434577/j4kv1hxwremkcpqqp6ok.jpg"
+        },
+        "igLeadWeb": {
+            "name": "Abhiram J",
+            "image": "https://res.cloudinary.com/dctmapb3t/image/upload/v1780434665/owegwiyc7gqa8esjvjjo.jpg"
         }
+
     },
 
     "discordLink": "https://discord.gg/DfnDfBhGha",

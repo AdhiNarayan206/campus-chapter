@@ -6,15 +6,18 @@ import { AiOutlineMenu } from "react-icons/ai";
 import data from "../../../data.json";
 
 const Navbar = () => {
-    const [openmenu, setopenmenu] = useState(false);
-    const [navbg, setNavBg] = useState(false);
+    const [openmenu, setopenmenu] = useState<boolean>(false);
+    const [navbg, setNavBg] = useState<boolean>(false);
     function openMenu() {
         setopenmenu(!openmenu);
     }
-    const path = useReactPath();
-    const navContent = ["home", "about", "gallery", "team", "contact"];
-    useEffect(() => { }, [path]);
-    const changeNavBg = () => {
+    const path:string = useReactPath();
+    const navContent:string[] = ["home", "about", "gallery", "team", "contact"];
+    useEffect(() => {
+        if(path === "/") return;
+        setopenmenu(false);
+     }, [path]);
+    const changeNavBg = ():void => {
         window.scrollY >= 150 ? setNavBg(true) : setNavBg(false);
     };
 
@@ -40,7 +43,9 @@ const Navbar = () => {
             <div className={styles.navbarRight}>
                 <div>
                     {navContent.map((content, i) => (
-                        <a href={`#${content}`} key={i.toString() + content}>
+                        <a href={`#${content}`} 
+                        key={i.toString() + content}
+                        >
                             <p
                                 style={{
                                     borderBottom: window.location.href.includes(
